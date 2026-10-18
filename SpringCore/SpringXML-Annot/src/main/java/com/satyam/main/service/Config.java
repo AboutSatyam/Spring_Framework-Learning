@@ -11,8 +11,7 @@ public class Config {
     }
 
     @Bean
-    public Password createPasswordBean()
-    {
+    public Password createPasswordBean() {
 
 //  Normal Way
 //        Password pass = new Password("SHA");
