@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 public class Config {
     public Config() {
-        System.out.println("Config Is Craeted  ");
+        System.out.println("Config Is Created  ");
     }
 
     @Bean
