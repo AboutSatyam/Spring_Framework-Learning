@@ -1,4 +1,4 @@
-# SpringBoot-Microservices-Learning
+# SpringStack-Learning
 
 ```
 SPRING STACK ✅
