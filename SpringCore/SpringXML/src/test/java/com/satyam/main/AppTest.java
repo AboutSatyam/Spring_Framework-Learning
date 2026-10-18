@@ -1,4 +1,4 @@
-package com.satyam;
+package com.satyam.main;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

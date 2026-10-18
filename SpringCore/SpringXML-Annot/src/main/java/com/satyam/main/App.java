@@ -1,4 +1,4 @@
-package com.satyam;
+package com.satyam.main;
 
 /**
  * Hello world!
