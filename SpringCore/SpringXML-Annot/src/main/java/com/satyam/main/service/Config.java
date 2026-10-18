@@ -12,7 +12,11 @@ public class Config {
 
     @Bean
     public Password createPasswordBean() {
-        Password pass = new Password("SHA");
-        return pass;
+//  Normal Way
+//        Password pass = new Password("SHA");
+//        return pass;
+
+        //Inline Way
+        return new Password("SHA");
     }
 }
