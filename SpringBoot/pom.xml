@@ -8,10 +8,13 @@
     </parent>
 
     <artifactId>SpringBoot</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>SpringBoot</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>Boot1</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

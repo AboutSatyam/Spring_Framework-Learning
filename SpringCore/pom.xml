@@ -8,10 +8,13 @@
     </parent>
 
     <artifactId>SpringCore</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>SpringCore</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>SpringXML</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
