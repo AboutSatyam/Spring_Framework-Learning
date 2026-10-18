@@ -13,7 +13,7 @@
     <!--    </bean>-->
 
     <!-- Constructor Injection -->
-    <bean id="processor" class="service.Processor"/>
+    <bean id="processor" class="service.Processor "/>
 
     <bean id="laptop" class="service.Laptop">
         <constructor-arg ref="processor"/>
