@@ -3,15 +3,18 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.satyam</groupId>
-        <artifactId>SpringBoot</artifactId>
+        <artifactId>Spring-FrameWork</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>Boot1</artifactId>
-    <packaging>jar</packaging>
+    <artifactId>SpringaDemo</artifactId>
+    <packaging>pom</packaging>
 
-    <name>Boot1</name>
+    <name>SpringBoot</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>Boot1</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
