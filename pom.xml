@@ -10,11 +10,10 @@
   <name>Spring-FrameWork</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>SpringBoot</module>
+<!--    <module>SpringDemo</module>-->
     <module>SpringCore</module>
     <module>SpringCore/SpringXML-Annot</module>
     <module>SpringCore/Spring_Java-Annot</module>
-    <module>SpringCore/Spring_Annot-Boot</module>
   </modules>
   <properties>
     <maven.compiler.release>21</maven.compiler.release>
