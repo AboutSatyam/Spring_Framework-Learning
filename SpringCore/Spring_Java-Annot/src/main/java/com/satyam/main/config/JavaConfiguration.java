@@ -8,7 +8,6 @@ import java.time.LocalDateTime;
 
 @Configuration
 @ComponentScan(basePackages = "com.satyam")
-
 public class JavaConfiguration {
     public JavaConfiguration() {
         System.out.println("JavaConfiguration Loaded On Stack ");
