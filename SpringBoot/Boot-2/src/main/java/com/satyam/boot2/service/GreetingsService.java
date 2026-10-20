@@ -7,7 +7,6 @@ import java.time.LocalTime;
 
 @Service
 public class GreetingsService implements IGreetings {
-
     @Autowired
     private LocalTime time;
 
