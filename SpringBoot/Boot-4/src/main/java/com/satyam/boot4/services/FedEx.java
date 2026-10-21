@@ -8,6 +8,7 @@ public class FedEx implements IDelivery {
         System.out.println("FedEx Bean Creted ");
     }
 
+
     @Override
     public Boolean deliveryTheProduct(Double Amount) {
         System.out.println("Product Delivered With Fedex " + Amount);
