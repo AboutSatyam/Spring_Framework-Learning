@@ -1,8 +1,8 @@
-package com.satyam.services;
+package com.satyam.boot4.services;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
+@Service
 public class Amazon {
 
     private IDelivery service;

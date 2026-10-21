@@ -1,4 +1,4 @@
-package com.satyam.services;
+package com.satyam.boot4.services;
 
 import org.springframework.stereotype.Service;
 
