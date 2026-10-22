@@ -3,7 +3,7 @@
 ```
 SPRING STACK ✅
 │
-├── 1. Spring Core & Spring Boot
+├── 1. Spring Core & Spring Boot ✅
 │   ├── Spring Core
 │   └── Spring Boot
 │
